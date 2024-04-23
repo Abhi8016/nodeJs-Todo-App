@@ -84,7 +84,7 @@ const sendVerificationMail = (email, verifiedToken) => {
           </tr>
           <tr>
             <td style="color: #153643; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding: 20px 0 30px 0;">
-            <a href="https://nodejs-todo-app-1.onrender.com/verifytoken/${verifiedToken}" style=" border: none;
+            <a href="https://nodejs-todo-app-qw5a.onrender.com/verifytoken/${verifiedToken}" style=" border: none;
             background-color: #ef7e5c;
     color: white;
     padding: 15px 32px;
